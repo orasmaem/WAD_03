@@ -80,6 +80,9 @@ section {
     background-color: #7ebeb6;
     color: #092747;
 }
+p:hover {
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
 
 /* Flexbox Media Queries */
 @media (min-width: 800px) {
